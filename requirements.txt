@@ -1,0 +1,8 @@
+climata.usgs
+dask.distributed
+fsspec
+holoviews
+hvplot
+numpy
+pandas
+xarray
